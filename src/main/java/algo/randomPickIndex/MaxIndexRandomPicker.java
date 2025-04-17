@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.Random;
 
 /*
+398. Random Pick Index variant
+
 Time Complexity: O(n) - where n is the number of elements in the list.
 Space Complexity: O(m) - where m is the number of indices of the maximum value.
  */

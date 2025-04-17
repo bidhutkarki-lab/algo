@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Random;
 
 /*
+398. Random Pick Index variant
+
 You’re dealing with large data (or a stream) where storing everything isn’t practical.
 
 Time Complexity: O(n) where n is the number of input elements.
